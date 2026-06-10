@@ -1,0 +1,16 @@
+{
+  "name": "Battle On Running — 八愛逃走中",
+  "short_name": "逃走中",
+  "description": "八愛逃走中！實體追逃遊戲管理介面",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ],
+  "categories": ["games", "entertainment"],
+  "lang": "zh-TW"
+}
