@@ -1,6 +1,6 @@
 {
   "name": "Battle On Running — 八愛逃走中",
-  "short_name": "逃走中",
+  "short_name": "八愛逃走中",
   "description": "八愛逃走中！實體追逃遊戲管理介面",
   "start_url": "./index.html",
   "display": "standalone",
